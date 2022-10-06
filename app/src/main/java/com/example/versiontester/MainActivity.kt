@@ -15,7 +15,6 @@ import com.example.versiontester.ui.theme.VersionTesterTheme
 // commit 2
 // commit 3
 // commit 4
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
